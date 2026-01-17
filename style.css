@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.address,
+.drop-arrow {
+  font-size: 14px;
+}
+.drop-product-arrow{
+  font-size: 12px;
+}
+
+h6 {
+  font-size: 18px;
+}
+.category-subtitle{
+  font-size: 14px;
+ }
+.fixed-height{
+  height: 90px;
+  background-color: #E5F3F3 !important;
+}
+.timer{
+  font-size: 10px;
+}
+.p-add-btn{
+  font-size: 14px;
+  background-color: rgb(247, 255, 245);
+  color: rgb(49 134 22);
+  border: 1px solid rgb(49 134 22) !important;
+}
+.product-header span{
+  font-size: 10px;
+  font-weight: 700;
+  width: 36px;
+  text-align: center;
+  line-height: 11px;
+  padding: 3px;
+  padding-bottom: 5px;
+  color: #fff;
+  background-image: url(assest/mobile/offlabel.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.store a div{
+  width: 120px;
+  height: 120px;
+}
+
+.clean-store{
+  background-color: #D9F2FE;
+}
+
+footer > section:first-child{
+  background-color: #f6f8f9;
+}
+
+footer section:first-child div {
+  color: #dce2e5;
+  font-size: 66px;
+  line-height: 70px;
+}
+
+footer section:first-child div i{
+  color: rgb(221, 70, 70);
+  font-size: 50px;
+}
+.f-link-list{
+  color: #666666;
+  font-size: 16px;
+  font-weight: normal !important;
+}
+.copyright{
+  font-size: 12px;
+}
